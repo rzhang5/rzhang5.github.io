@@ -184,6 +184,14 @@ footer a {
     display:inline-flex;
 }
 
+#singular {
+    background-color: white;
+    margin: 2em;
+    border-radius: 25px;
+    padding: 1.5em;
+    display: inline-flex;
+}
+
 #character_art {
     background-color: #ec77b8;
 }
