@@ -15,7 +15,6 @@ header {
 }
 
 nav {
-    width: 80%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -249,7 +248,7 @@ footer a {
 #edge {
     margin-right: 0em;
 }
-    
+
 * {
   box-sizing: border-box;
 }
