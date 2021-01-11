@@ -249,6 +249,10 @@ footer a {
     margin-right: 0em;
 }
 
+#about-p p {
+    line-height: 10px;
+}
+
 * {
   box-sizing: border-box;
 }
