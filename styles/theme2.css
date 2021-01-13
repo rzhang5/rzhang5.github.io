@@ -204,6 +204,10 @@ footer a {
     display:inline-flex;
 }
 
+.project-label {
+    color:#c2c2c2;
+}
+
 #singular {
     background-color: white;
     margin: 2em;
