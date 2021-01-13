@@ -34,13 +34,14 @@ ul {
 
 nav ul li a {
     margin: 20px;
-    font-size: 27px;
+    font-size: 25px;
     font-weight: normal;
 }
 
 #heading {
     font-size: 30px;
     margin-right: auto;
+    margin-left: 2em;
 }
 
 h1 {
