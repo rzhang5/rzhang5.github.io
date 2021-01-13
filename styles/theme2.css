@@ -169,7 +169,7 @@ footer {
 footer a {
     color: #666961;
     font-variant-caps: all-small-caps;
-    margin: 1em;
+    margin: 10px 1em;
     font-size: 28px;
     font-weight: bold;
 }
@@ -256,6 +256,12 @@ footer a {
     width: 401px;
     height: 430px;
     vertical-align: top;
+}
+
+#contribution {
+    font-size: 15px;
+    color: #a3a3a3;
+    font-weight: lighter;
 }
 
 * {
