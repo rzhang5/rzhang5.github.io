@@ -146,7 +146,7 @@ figure {
 div p {
     color: #545454;
     line-height: 18px;
-    width: 350px;
+    width: 500px;
 }
 
 figcaption {
@@ -229,10 +229,8 @@ footer a {
 }
 
 #aboutsection {
-    margin-bottom: 5em;
     width: 70%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 5em auto 4em;
 }
 
 #edge {
@@ -241,6 +239,7 @@ footer a {
 
 #about-p {
     display: inline-block;
+    margin-left: 4em;
 }
 
 #about-p p {
