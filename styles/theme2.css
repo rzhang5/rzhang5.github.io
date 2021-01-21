@@ -1,5 +1,5 @@
 body {
-    background-color: #f5eee9;
+    background-color: #FEF5EF;
     margin-top: 50px;
     font-family: Roboto, sans-serif;
 }
@@ -42,6 +42,8 @@ nav ul li a {
     font-size: 33px;
     margin-right: auto;
     margin-left: 2em;
+    font-weight: bold;
+    color:#538083
 }
 
 h1 {
@@ -54,7 +56,7 @@ li>a {
     font-family: sans-serif;
     font-variant-caps: all-small-caps;
     font-size: 30px;
-    color: #a27866;
+    color: #538083;
     font-weight: bold;
 }
 
@@ -95,7 +97,7 @@ h3+p {
 
 header+section {
     color: white;
-    background-color: #e26767;
+    background-color: #e8686c;
     padding: 1em;
     font-size: 20px;
     border-radius: 20px;
@@ -115,7 +117,7 @@ p {
 }
 
 p a {
-    color:#ffd887;
+    color:#ffe29a;
     font-weight: bold;
 }
 
@@ -226,7 +228,7 @@ footer a {
 }
 
 #design {
-    background-color: #8fe8c7;
+    background-color: #6BC3C3;
 }
 
 #art {
@@ -266,6 +268,10 @@ footer a {
     font-size: 15px;
     color: #a3a3a3;
     font-weight: lighter;
+}
+
+#medium {
+    font-size: 20px;
 }
 
 * {
